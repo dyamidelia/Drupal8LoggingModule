@@ -23,9 +23,9 @@ record in your database. This data is then queryed by the Display Table Controll
 ## Views integration
 If you wish to create a custom View instead of using the premade block that is all setup.
 
-##Installation
+## Installation
 It is assumed that the Database is setup as the problem described and so no installation schemas are nessicary
 
-##USAGE
+## USAGE
 The Block name is login_block in the Catergory Login Tracker
 

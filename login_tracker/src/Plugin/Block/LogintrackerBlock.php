@@ -10,6 +10,7 @@ use Drupal\login_tracker\Controller\DisplayTableController;
  * @Block(
  * id = "login_block",
  * admin_label = @Translation("Login block"),
+ * category = @Translation("Login Tracker"),
  * )
  */
 class LogintrackerBlock extends BlockBase {
